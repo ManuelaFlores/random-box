@@ -9,13 +9,6 @@
 ## Introducción :
 Este proyecto consiste en implementar una página que tenga un contenedor con una frase, el obejtivo principal es que al recargar la página el fondo del contenedor cobie de color.
 
-
-#### ETAPA 1 : 
-* Dibujar el sketch del proyecto ( imagen adjunta al final de esta etapa).
-* Elección de colores y tipografías.
-* Elección del nombre del proyecto ("Bycicle Nets")
-* Crear issues y milestones que sirvan como hoja de ruta (roadmap).
-
 ## Archivos importantes
 
 El proyecto presenta los siguientes archivos para uso del usuario:
